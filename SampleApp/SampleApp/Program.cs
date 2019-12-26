@@ -10,6 +10,8 @@ namespace SampleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Git Sample Program");
+            Console.Read();
         }
     }
 }
